@@ -17,5 +17,4 @@ jobs:
         with:
           files: |
             out/platform-ubuntu.h
-#        env:
-#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            out/includes-ubuntu.tar.bz2
